@@ -1,17 +1,17 @@
 # rootoslinux.github.io
 
-# SourceForge
+## SourceForge
 ```
 https://sourceforge.net/u/devtoprak/profile
 ```
 
 
-# Github
+## Github
 ```
 https://github.com/devtoprak/
 ```
 
-# Reddit
+## Reddit
 ```
 u/devtoprak
 u/RootOSLinux
